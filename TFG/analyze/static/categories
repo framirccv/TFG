@@ -1,0 +1,5 @@
+Identificador de terminal: aaid;androidid;fingerprint;gsfid;hwid;buildid;imei;simid;platform;wifimac
+Información de localización: routermac;routerssid;geolatlon
+Información de contacto: email;form-phone;form-email;form-name
+Información demográfica: form-demografic
+Other: form-data
